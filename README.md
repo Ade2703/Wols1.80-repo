@@ -1,5 +1,5 @@
 
-![stronghold logo](img/logo.png)
+![Wols 1.80 logo](img/logo.png)
 # Wols 1.80
 Robot vacuum cleaner made with Arduino
 ##  Description
@@ -18,3 +18,6 @@ The code uses a multi tasking library to overcome the limits of the Arduino UNO 
 * Bluetooth Module:
 * SD Card Module:
  
+## Project's 3D Model:
+
+![3d model](img/3dmodel.png)
