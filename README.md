@@ -3,6 +3,7 @@ Robot vacuum cleaner made with Arduino
 #Description
 Wols 1.80 is a robot vacuum cleaner made with Arduino that uses a SLAM algorithm to map the environment in which the device operates.
 The code uses a multi tasking library to overcome the limits of the Arduino UNO board and some sensors to influence the device's behaviour.
+
 #Dependencies
 * Arduino UNO board
 * [AceRoutine](https://github.com/bxparks/AceRoutine) library
