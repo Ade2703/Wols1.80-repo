@@ -1,3 +1,5 @@
+
+![stronghold logo](img/logo.png)
 # Wols 1.80
 Robot vacuum cleaner made with Arduino
 ##  Description
